@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Fusion Zhu, A Full-stack development:
+Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
 
 - 🔭 I’m currently working on Shenzhen,China
 - 🌱 I’m currently learning English
