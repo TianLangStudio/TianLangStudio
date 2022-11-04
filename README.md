@@ -2,8 +2,10 @@
 
 Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
 
-- 🔭 I’m currently working on Shenzhen,China
-- 🌱 I’m currently learning English
+- 👨‍💼 I currently work in Shenzhen,China.
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
+- 📺 I currently continue to make some [videos](https://www.ixigua.com/home/109529239261) about learning programming. 
+- 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
