@@ -29,13 +29,16 @@ Yep, I just like to learn new techniques.
   ![Arithmetic Bevy](./imgs/bevy_arithmetic.png)  
   ### Other  
   [Sokoban Game Book Translation Rust](https://github.com/TianLangStudio/rust-sokoban)
+
+- 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
+  ![5-star feedback on Upwork](./imgs/5-star-feedback-upwork.png)
   
+  ![Fusion Zhu's Github Stats](https://github-readme-stats.vercel.app/api?username=TianLangStudio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
   
 - 👨‍💼 I currently work in Shenzhen,China.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
 - 📺 I currently continue to make some [videos](https://www.ixigua.com/home/109529239261) about learning programming. 
-- 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
-![5-star feedback on Upwork](./imgs/5-star-feedback-upwork.png)  
+
 
 
 <!--
@@ -46,4 +49,3 @@ Yep, I just like to learn new techniques.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Fusion Zhu's Github Stats](https://github-readme-stats.vercel.app/api?username=TianLangStudio&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
