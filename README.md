@@ -10,6 +10,7 @@ Yep, I just like to learn new techniques.
   [Databend Distributed Warehouse Rust](https://github.com/TianLangStudio/databend)  
   [Spark JobServer Scala](https://github.com/spark-jobserver/spark-jobserver)  
   ![Submit to Spark Jobserver](./imgs/submit2spark_jobserver_tianlangstudio.png)  
+  [BigQuery Proxy bigdata gcp async actix_web Rust](https://github.com/TianLangStudio/bigquery_proxy)
   [Email Analysis Clickhouse ElasticSearch D3.js Java JavaScript](https://github.com/TianLangStudio/email_analysis)  
   ![Email Analysis](./imgs/email_relation_analysis.png)
   ![Heatmap Clickstream Spark Kafka Postgres Java Scala Html5](./imgs/heatmap_clickstream.png)  
